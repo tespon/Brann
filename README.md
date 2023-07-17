@@ -18,7 +18,7 @@ Pagina web para o Brann Burger
 <br>
 
 <p align="center">
-  <img alt="Projeto Brann" src=".github/preview.jpg" width="100%">
+  <img alt="Projeto Brann" src="./github/preview.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
